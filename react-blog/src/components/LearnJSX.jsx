@@ -4,15 +4,9 @@ const LearJSX = () => {
   return (
    <>
       <h1>LearnJSX 1</h1>
-
       <h1>LearnJSX 2</h1>
-
-
       <h1>Price : {10 + 10}</h1>
       <h1>Lg {model}</h1>
-
-    
-       
    </>
   )
 }
