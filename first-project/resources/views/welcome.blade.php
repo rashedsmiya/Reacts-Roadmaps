@@ -1,1 +1,2 @@
-<h1>Welcome to My Website</h1>
+<h1>Our first Page</h1>
+<a href="/hello">Get Post</a>
